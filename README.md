@@ -17,5 +17,7 @@ And then you need to attach VPC to Internet gateway but there will be a last ste
 ## Last step, Route table
 for each subnet, you need to create a route table and so because we have public and private subnets and in that case we need public and private route table. 
 ![image](https://github.com/Damonmehrpour/iot-project/assets/60698413/259f9927-04ba-4a65-af1a-f45f667b14f7)
+## at the end it will look something like this after you launch instance again
+![image](https://github.com/Damonmehrpour/iot-project/assets/60698413/0a135a0b-aff9-441b-8c09-3d89b010362d)
 
  
